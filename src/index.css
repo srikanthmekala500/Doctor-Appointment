@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* .nav-link{
+  font-weight: 300 !important;
+} */ */
+  .register-eco{
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    flex-direction: column;
+
+}
+.register-login{
+  display: flex ;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+  flex-direction: column;
+
+} 
+
+.wrapper {
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    border: rgb(255, 0, 0);
+    
+   
+  
+}
+.login {
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    width: 50vh;
+}
+.dashboard {
+  .card {
+    border-radius: 8px;
+    box-shadow: 0 0.115rem 1.25rem rgba(0, 0, 0, 0.15) !important;
+  }
+}
+ 

@@ -1,0 +1,5 @@
+ .formcontaner{
+    display: flex;
+    width: 300px;
+    padding: 30px;
+ }
